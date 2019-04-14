@@ -1,0 +1,7 @@
+C:\Users\treznik\source\repos\RegExp\RegExp\bin\Debug\RegExp.exe.config
+C:\Users\treznik\source\repos\RegExp\RegExp\bin\Debug\RegExp.exe
+C:\Users\treznik\source\repos\RegExp\RegExp\bin\Debug\RegExp.pdb
+C:\Users\treznik\source\repos\RegExp\RegExp\obj\Debug\RegExp.csprojAssemblyReference.cache
+C:\Users\treznik\source\repos\RegExp\RegExp\obj\Debug\RegExp.csproj.CoreCompileInputs.cache
+C:\Users\treznik\source\repos\RegExp\RegExp\obj\Debug\RegExp.exe
+C:\Users\treznik\source\repos\RegExp\RegExp\obj\Debug\RegExp.pdb
